@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"Vishnu Priya",
+    "phone":"7396272060",
+    "email":"kollurivishnupriya@gmail.com",
+    "Address":"(d/o)sudheerbabu,jangareddygudem"
+  },
+  "education":[{
+    "course":"B.Tech(computer science and engineering)",
+    "institute":"CR Reddy enginerring college",
+    "data":["2015-2019","65%"]
+  },
+
+  {
+    "course":"Inter(MPC)",
+    "institute":"Sasi junior College",
+    "data":["2013-2015","91%"]
+  },
+  {
+    "course":"ssc",
+    "Institute" :"St.Mary's high school",
+"data":["2012-2013","90%"]
+  }
+],
+"skills":[
+  {
+    "name":"language",
+    "data":["C","JAVA","PHP"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["HTML","CSS","PHP"]
+  },
+  {
+    "name":"OS",
+    "data":["windows","Linux","Unix"]
+    }
+]
+}
